@@ -69,7 +69,7 @@ Paryavaran-Kavalu/
 └── README.md
 ```
 ## Screenshots
-Screenshots are included in this submission. also the application can be run on an emulator or Android device to view all screens.
+Screenshots are included in this submission. Also the application can be run on an emulator or Android device to view all screens.
 
 The application is fully functional and can be run on any Android device or emulator to view all screens:
 - Splash Screen
