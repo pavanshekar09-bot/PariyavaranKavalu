@@ -75,11 +75,11 @@ The application is fully functional and can be run on any Android device or emul
 - Splash Screen
   ![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/7e1ec187c86cd41115a46e8c4b5abdd81a25f4d6/Open%20screen.jpeg)
 - Home Screen
-  ![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/db346f68c12efdaff20994bcd19c7c7cde95e5b4/Homescreen.jpeg)
+  ![Home Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/db346f68c12efdaff20994bcd19c7c7cde95e5b4/Homescreen.jpeg)
 - Report Waste Screen
-  ![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/21270b442defa23ac0f94d197e5066c0ed5aee74/reportscreen.jpeg)
+  ![Report Waste Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/21270b442defa23ac0f94d197e5066c0ed5aee74/reportscreen.jpeg)
 - Profile Screen
-  ![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/acf15545d4adb1b4c62bbffa630e33809efdf87a/profilescreen.jpeg)
+  ![Profile Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/acf15545d4adb1b4c62bbffa630e33809efdf87a/profilescreen.jpeg)
 
 ---
 ## Project Status
