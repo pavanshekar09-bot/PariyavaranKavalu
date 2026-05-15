@@ -69,10 +69,11 @@ Paryavaran-Kavalu/
 └── README.md
 ```
 ## Screenshots
-Screenshots are not included in this submission. The application can be run on an emulator or Android device to view all screens.
+Screenshots are included in this submission. also the application can be run on an emulator or Android device to view all screens.
 
 The application is fully functional and can be run on any Android device or emulator to view all screens:
-- Home Screen
+- Splash Screen ![image alt](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/39f081afa6bcbe2f94baf66cb051de1b0c8ae971/Open%20screen.jpeg)
+- Home Screen 
 - Report Waste Screen
 - Profile Screen
 
