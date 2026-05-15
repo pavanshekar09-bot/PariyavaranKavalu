@@ -73,7 +73,7 @@ Screenshots are included in this submission. also the application can be run on 
 
 The application is fully functional and can be run on any Android device or emulator to view all screens:
 - Splash Screen
-  <img src="[screenshots/Open screen.jpeg](https://github.com/pavanshekar09-bot/PariyavaranKavalu/tree/d1798eae179a60d9a870a9dcee4255aeac9ecbb1/Splash%20Screen%20%20%20%3Cimg%20src%3D%22screenshots)" width="300">
+  ![Splash Screen](screenshots/Splash.jpeg)
 - Home Screen 
 - Report Waste Screen
 - Profile Screen
