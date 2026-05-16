@@ -1,4 +1,5 @@
 # Paryavaran-Kavalu – Smart Waste Reporting App
+(Clean The Spot)
 Built as a student project for civic environmental reporting and awareness.
 
 A simple Android app built with Kotlin and Jetpack Compose that allows users to report waste or pollution in their surroundings. Designed to encourage community participation in keeping the environment clean.
