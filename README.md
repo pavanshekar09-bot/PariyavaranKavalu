@@ -30,7 +30,7 @@ A simple Android app built with Kotlin and Jetpack Compose that allows users to 
 | Jetpack Compose | UI development |
 | Android Studio | IDE |
 
-> No backend or database is currently integrated; data is handled locally during runtime for demonstration purposes.
+Data is handled locally during runtime for demonstration purposes.
 
 ---
 
