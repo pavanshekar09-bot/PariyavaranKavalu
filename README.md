@@ -44,7 +44,8 @@ Data is handled locally during runtime for demonstration purposes.
 
 > Minimum SDK: 24 | Target SDK: 34
 
-How It Works
+## How It Works
+
 User submits report → Data stored in Firebase → UI updates automatically
 
 ---
