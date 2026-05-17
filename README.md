@@ -16,9 +16,14 @@ Built using Kotlin, Jetpack Compose, and Firebase, this project is part of the C
 
 The app aims to promote real-time community-driven environmental responsibility through a simple mobile interface.
 
+---
+
+
 ## Problem Statement
 
 Improper waste disposal and lack of reporting systems make it difficult to track cleanliness issues in local areas. There is no simple and accessible mobile solution for citizens to report such issues quickly.
+
+---
 
 
 ## Solution
@@ -30,6 +35,8 @@ This application provides a lightweight platform where users can:
 - Store reports in Firebase for structured data collection
 - Enable future scalability for tracking and analysis
 
+---
+
 
 ## Features
 
@@ -40,20 +47,22 @@ This application provides a lightweight platform where users can:
 - Basic input validation
 - Simple and intuitive navigation flow
  
+---
+
 
 ## Firebase Integration
 
 The app uses Firebase to store waste reports in real time.
 
 Each report includes:
-
 - Waste type
 - Description
 - Timestamp (if added)
 - Location (planned enhancement)
 
-
 ---
+
+
 ## Key Highlights
 
 - Clean Jetpack Compose UI
@@ -61,6 +70,9 @@ Each report includes:
 - Simple and intuitive user flow
 - Lightweight offline-first prototype
 - Beginner-friendly architecture
+  
+---
+
 
 ## Tech Stack
 
@@ -97,22 +109,26 @@ User submits report → Data stored in Firebase → UI updates automatically
 ```
 Paryavaran-Kavalu/
 ├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/paryavaranakavalu/
-│   │   │   │   ├── MainActivity.kt
-│   │   │   │   ├── ui/
-│   │   │   │   │   ├── HomeScreen.kt
-│   │   │   │   │   ├── ReportScreen.kt
-│   │   │   │   │   └── components/
-│   │   │   ├── res/
-│   │   │   │   └── values/
-│   │   │   │       ├── strings.xml
-│   │   │   │       └── themes.xml
-│   │   │   └── AndroidManifest.xml
-│   └── build.gradle
+│   ├── src/main/
+│   │   ├── java/com/example/paryavaranakavalu/
+│   │   │   ├── MainActivity.kt
+│   │   │   ├── ui/
+│   │   │   │   ├── HomeScreen.kt
+│   │   │   │   ├── ReportScreen.kt
+│   │   │   │   ├── ProfileScreen.kt
+│   │   │   │   └── components/
+│   │   ├── res/
+│   │   │   └── values/
+│   │   │       ├── strings.xml
+│   │   │       ├── themes.xml
+│   │   │       └── colors.xml
+│   │   └── AndroidManifest.xml
+│   ├── build.gradle
+│   └── google-services.json
 ├── build.gradle
+├── settings.gradle
 └── README.md
+Data is securely stored using Firebase backend integration for real-time report submission and retrieval.
 ```
 ## Screenshots
 Screenshots are included in this submission. Also the application can be run on an emulator or Android device to view all screens.
@@ -130,18 +146,23 @@ The application is functional and can be run on any Android device or emulator t
 ---
 ## Project Status
 
-- Core features implemented and working
+- Core waste reporting features implemented and working
 - UI fully functional using Jetpack Compose
-- Local data handling for demonstration
-- Ready for evaluation submission
+- Firebase integration completed for real-time report storage
+- Form validation and submission workflow functional
+- Ready for internship evaluation submission
+
+---
+
 
 ## Future Improvements
 
-- Add Firebase to store reports in a real database
-- Allow users to attach a photo of the waste
-- Add map view to show report locations
-- User login and profile using Firebase Auth
+- Enable image capture for waste reporting
+- Add automatic GPS-based location tracking
+- Add map view for report visualization
+- User login and profile using Firebase Authentication
 - Push notifications for report status updates
+- Admin dashboard for monitoring submitted reports
 
 ---
 
@@ -154,6 +175,8 @@ This project helped in understanding:
 - Jetpack Compose UI design
 - Firebase backend integration
 - Real-world problem-solving using mobile technology
+
+---
 
 
 ## Author
