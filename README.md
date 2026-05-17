@@ -1,5 +1,5 @@
 # Paryavaran-Kavalu – Smart Waste Reporting App
-## CleanTheSpot Initiative    ### *See it. Report it. Clean it.*
+## CleanTheSpot Initiative    *See it. Report it. Clean it.*
 
 ---
 
