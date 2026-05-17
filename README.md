@@ -12,9 +12,9 @@ Built using Kotlin and Jetpack Compose, with Firebase integration for backend da
 
 Paryavaran-Kavalu (CleanTheSpot Initiative) is a student-built Android application designed to encourage civic participation in environmental cleanliness by enabling users to report waste or pollution in their surroundings.
 
-Built using Kotlin, Jetpack Compose, and Firebase, this project is part of the CleanTheSpot initiative, which aims to promote real-time community-driven waste reporting and awareness.
+Built using Kotlin, Jetpack Compose, and Firebase, this project is part of the CleanTheSpot initiative.
 
-The app aims to promote community-driven environmental responsibility through a simple mobile interface.
+The app aims to promote real-time community-driven environmental responsibility through a simple mobile interface.
 
 
 ## Problem Statement
