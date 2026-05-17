@@ -10,7 +10,9 @@ Built using Kotlin and Jetpack Compose, with Firebase integration for backend da
 
 ## Project Overview
 
-Paryavaran-Kavalu is a smart waste reporting system that allows users to submit reports about garbage or pollution in their surroundings. The reports are stored in Firebase and can be used for monitoring and awareness purposes.
+Paryavaran-Kavalu (CleanTheSpot Initiative) is a student-built Android application designed to encourage civic participation in environmental cleanliness by enabling users to report waste or pollution in their surroundings.
+
+Built using Kotlin, Jetpack Compose, and Firebase, this project is part of the CleanTheSpot initiative, which aims to promote real-time community-driven waste reporting and awareness.
 
 The app aims to promote community-driven environmental responsibility through a simple mobile interface.
 
