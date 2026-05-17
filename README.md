@@ -38,14 +38,6 @@ This application provides a lightweight platform where users can:
 ---
 
 
-## Architecture / workflow diagram
-
-User → Report Form → Firebase → Data Storage → Admin Review
-
-
----
-
-
 ## Features
 
   Implemented Features
@@ -106,15 +98,18 @@ Data is handled locally during runtime for demonstration purposes.
 
 > Minimum SDK: 24 | Target SDK: 34
 
-## How It Works
 
-User submits report → Data stored in Firebase → UI updates automatically
+```
 
----
+## Architecture / workflow diagram
+
+User → Report Form → Firebase → Data Storage → Admin Review
+
+```
+
 
 ## Folder Structure
 
-```
 Paryavaran-Kavalu/
 ├── app/
 │   ├── src/main/
