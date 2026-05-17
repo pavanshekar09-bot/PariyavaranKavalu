@@ -15,6 +15,19 @@ A simple Android app built with Kotlin and Jetpack Compose that allows users to 
 - Basic input validation with user-friendly feedback
 - Clean and minimal UI with Jetpack Compose
 
+
+## Firebase Integration
+
+The app uses Firebase to store waste reports in real time.
+
+Each report includes:
+
+Waste type
+Description
+Timestamp (if added)
+Location (planned enhancement)
+
+
 ---
 ## Key Highlights
 
