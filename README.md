@@ -1,12 +1,10 @@
 # Paryavaran-Kavalu – Smart Waste Reporting App
-### CleanTheSpot Initiative  
-**See it. Report it. Clean it.**
-
+## CleanTheSpot Initiative  
+### *See it. Report it. Clean it.*
 
 A student-built Android application designed to encourage civic participation in environmental cleanliness by enabling users to report waste or pollution in their surroundings.
 
-Built using Kotlin and Jetpack Compose, with Firebase integration for backend data storage.
-
+Built using **Kotlin**, **Jetpack Compose**, and **Firebase** for backend data storage.
 ---
 
 
