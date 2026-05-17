@@ -16,7 +16,6 @@ Built using Kotlin, Jetpack Compose, and Firebase, this project is part of the C
 
 The app aims to promote real-time community-driven environmental responsibility through a simple mobile interface.
 
-
 ## Problem Statement
 
 Improper waste disposal and lack of reporting systems make it difficult to track cleanliness issues in local areas. There is no simple and accessible mobile solution for citizens to report such issues quickly.
@@ -171,5 +170,5 @@ This project helped in understanding:
 
 ## Author
 
-Developed as part of a student internship submission.  
-Built with Kotlin + Jetpack Compose on Android Studio.
+Developed as part of an internship submission under the CleanTheSpot initiative
+Built using Kotlin + Jetpack Compose in Android Studio
