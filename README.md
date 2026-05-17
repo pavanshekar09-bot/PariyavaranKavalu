@@ -101,7 +101,6 @@ Data is handled locally during runtime for demonstration purposes.
 
 ```
 
-
 ## Architecture / Workflow
 
 ```text
@@ -114,7 +113,7 @@ Data is handled locally during runtime for demonstration purposes.
 
 ## Folder Structure
 
-```text
+```
 Paryavaran-Kavalu/
 ├── app/
 │   ├── src/main/
@@ -140,26 +139,25 @@ Paryavaran-Kavalu/
 
 Data is securely stored using Firebase backend integration for real-time report submission and retrieval.
 
-```
-## 📸 Screenshots
+## Screenshots
 
 The application is fully functional and can be run on any Android device or emulator.
 
-### Splash Screen
+## Splash Screen
 ![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/7e1ec187c86cd41115a46e8c4b5abdd81a25f4d6/Open%20screen.jpeg)
 
-### Home Screen
+## Home Screen
 ![Home Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/db346f68c12efdaff20994bcd19c7c7cde95e5b4/Homescreen.jpeg)
 
-### Report Waste Screen
+## Report Waste Screen
 ![Report Waste Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/21270b442defa23ac0f94d197e5066c0ed5aee74/reportscreen.jpeg)
 
-### Profile Screen
+## Profile Screen
 ![Profile Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/acf15545d4adb1b4c62bbffa630e33809efdf87a/profilescreen.jpeg)
 
 ---
 
-## 📊 Project Status
+## Project Status
 
 - Core waste reporting features implemented and working
 - UI fully functional using Jetpack Compose
@@ -169,7 +167,7 @@ The application is fully functional and can be run on any Android device or emul
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Enable image capture for waste reporting
 - Add automatic GPS-based location tracking
@@ -180,7 +178,7 @@ The application is fully functional and can be run on any Android device or emul
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project helped in understanding:
 
@@ -191,7 +189,7 @@ This project helped in understanding:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Developed as part of an internship submission under the **CleanTheSpot initiative**
 
