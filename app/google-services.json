@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879849697796",
+    "project_id": "pariyavarankavalu",
+    "storage_bucket": "pariyavarankavalu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879849697796:android:cedaf90de7a0bf896d7b51",
+        "android_client_info": {
+          "package_name": "com.example.pariyavarankavalu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePRnak2WP4-ciWEb4kv9o1iVoPLHxVyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

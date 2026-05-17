@@ -26,6 +26,7 @@ import androidx.compose.ui.text.font.*
 import androidx.compose.ui.text.style.*
 import androidx.compose.ui.unit.*
 import kotlinx.coroutines.delay
+import com.google.firebase.firestore.FirebaseFirestore
 
 // ─────────────────────────────────────────
 //  THEME / COLORS
@@ -118,6 +119,8 @@ fun ParyavaranApp() {
     var reports      by remember { mutableStateOf(sampleReports) }
     var nextId       by remember { mutableIntStateOf(sampleReports.size + 1) }
 
+    val db = FirebaseFirestore.getInstance()
+
     AnimatedContent(
         targetState = currentScreen,
         transitionSpec = {
@@ -136,6 +139,14 @@ fun ParyavaranApp() {
             Screen.ReportWaste -> ReportWasteScreen(
                 onBack   = { currentScreen = Screen.Home    },
                 onSubmit = { wasteType, desc, location ->
+                    db.collection("reports").add(
+                        hashMapOf(
+                            "wasteType" to wasteType,
+                            "description" to desc,
+                            "location" to location,
+                            "status" to "Reported"
+                        )
+                    )
                     val newReport = Report(
                         id          = nextId.toString(),
                         wasteType   = wasteType,
