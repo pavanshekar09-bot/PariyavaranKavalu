@@ -141,21 +141,25 @@ Paryavaran-Kavalu/
 Data is securely stored using Firebase backend integration for real-time report submission and retrieval.
 
 ```
-## Screenshots
-Screenshots are included in this submission. Also the application can be run on an emulator or Android device to view all screens.
+## 📸 Screenshots
 
-The application is functional and can be run on any Android device or emulator to view all screens:
-- Splash Screen
-  ![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/7e1ec187c86cd41115a46e8c4b5abdd81a25f4d6/Open%20screen.jpeg)
-- Home Screen
-  ![Home Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/db346f68c12efdaff20994bcd19c7c7cde95e5b4/Homescreen.jpeg)
-- Report Waste Screen
-  ![Report Waste Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/21270b442defa23ac0f94d197e5066c0ed5aee74/reportscreen.jpeg)
-- Profile Screen
-  ![Profile Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/acf15545d4adb1b4c62bbffa630e33809efdf87a/profilescreen.jpeg)
+The application is fully functional and can be run on any Android device or emulator.
+
+### Splash Screen
+![Splash Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/7e1ec187c86cd41115a46e8c4b5abdd81a25f4d6/Open%20screen.jpeg)
+
+### Home Screen
+![Home Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/db346f68c12efdaff20994bcd19c7c7cde95e5b4/Homescreen.jpeg)
+
+### Report Waste Screen
+![Report Waste Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/21270b442defa23ac0f94d197e5066c0ed5aee74/reportscreen.jpeg)
+
+### Profile Screen
+![Profile Screen](https://github.com/pavanshekar09-bot/PariyavaranKavalu/blob/acf15545d4adb1b4c62bbffa630e33809efdf87a/profilescreen.jpeg)
 
 ---
-## Project Status
+
+## 📊 Project Status
 
 - Core waste reporting features implemented and working
 - UI fully functional using Jetpack Compose
@@ -165,8 +169,7 @@ The application is functional and can be run on any Android device or emulator t
 
 ---
 
-
-## Future Improvements
+## 🚀 Future Improvements
 
 - Enable image capture for waste reporting
 - Add automatic GPS-based location tracking
@@ -177,8 +180,7 @@ The application is functional and can be run on any Android device or emulator t
 
 ---
 
-
-## Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project helped in understanding:
 
@@ -189,8 +191,8 @@ This project helped in understanding:
 
 ---
 
+## 👨‍💻 Author
 
-## Author
+Developed as part of an internship submission under the **CleanTheSpot initiative**
 
-Developed as part of an internship submission under the CleanTheSpot initiative
-Built using Kotlin + Jetpack Compose in Android Studio
+Built using **Kotlin + Jetpack Compose** in Android Studio
