@@ -1,5 +1,5 @@
 # Paryavaran-Kavalu – Smart Waste Reporting App
-(Clean The Spot)
+
 
 Built as a student project for civic environmental reporting and awareness.
 
