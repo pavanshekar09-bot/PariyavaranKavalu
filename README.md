@@ -38,6 +38,14 @@ This application provides a lightweight platform where users can:
 ---
 
 
+## Architecture / workflow diagram
+
+User → Report Form → Firebase → Data Storage → Admin Review
+
+
+---
+
+
 ## Features
 
   Implemented Features
