@@ -109,7 +109,6 @@ User → Report Form → Firebase → Data Storage → Admin Review
 
 
 ## Folder Structure
-
 Paryavaran-Kavalu/
 ├── app/
 │   ├── src/main/
@@ -132,6 +131,8 @@ Paryavaran-Kavalu/
 ├── settings.gradle
 └── README.md
 Data is securely stored using Firebase backend integration for real-time report submission and retrieval.
+
+
 ```
 ## Screenshots
 Screenshots are included in this submission. Also the application can be run on an emulator or Android device to view all screens.
