@@ -101,14 +101,20 @@ Data is handled locally during runtime for demonstration purposes.
 
 ```
 
-## Architecture / workflow diagram
 
-User → Report Form → Firebase → Data Storage → Admin Review
+## Architecture / Workflow
+
+```text
++---------+      +--------------+      +----------+      +--------------+      +-------------+
+|  User   | ---> | Report Form  | ---> | Firebase | ---> | Data Storage | ---> | Admin Review|
++---------+      +--------------+      +----------+      +--------------+      +-------------+
 
 ```
 
 
 ## Folder Structure
+
+```text
 Paryavaran-Kavalu/
 ├── app/
 │   ├── src/main/
@@ -130,8 +136,9 @@ Paryavaran-Kavalu/
 ├── build.gradle
 ├── settings.gradle
 └── README.md
-Data is securely stored using Firebase backend integration for real-time report submission and retrieval.
+```
 
+Data is securely stored using Firebase backend integration for real-time report submission and retrieval.
 
 ```
 ## Screenshots
