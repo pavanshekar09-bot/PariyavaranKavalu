@@ -47,10 +47,10 @@ The app uses Firebase to store waste reports in real time.
 
 Each report includes:
 
-Waste type
-Description
-Timestamp (if added)
-Location (planned enhancement)
+- Waste type
+- Description
+- Timestamp (if added)
+- Location (planned enhancement)
 
 
 ---
@@ -72,18 +72,6 @@ Location (planned enhancement)
 | Android Studio | IDE |
 
 Data is handled locally during runtime for demonstration purposes.
-
-
-## Firebase Integration
-
-The app uses Firebase to store waste reports in real time.
-
-Each report contains:
-
-Waste type
-Description
-Timestamp (if enabled)
-Location (planned feature)
 
 ---
 
