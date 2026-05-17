@@ -1,20 +1,44 @@
 # Paryavaran-Kavalu – Smart Waste Reporting App
 
 
-Built as a student project for civic environmental reporting and awareness.
+A student-built Android application designed to encourage civic participation in environmental cleanliness by enabling users to report waste or pollution in their surroundings.
 
-A simple Android app built with Kotlin and Jetpack Compose that allows users to report waste or pollution in their surroundings. Designed to encourage community participation in keeping the environment clean.
+Built using Kotlin and Jetpack Compose, with Firebase integration for backend data storage.
 
 ---
 
+
+## Project Overview
+
+Paryavaran-Kavalu is a smart waste reporting system that allows users to submit reports about garbage or pollution in their surroundings. The reports are stored in Firebase and can be used for monitoring and awareness purposes.
+
+The app aims to promote community-driven environmental responsibility through a simple mobile interface.
+
+
+## Problem Statement
+
+Improper waste disposal and lack of reporting systems make it difficult to track cleanliness issues in local areas. There is no simple and accessible mobile solution for citizens to report such issues quickly.
+
+
+## Solution
+
+This application provides a lightweight platform where users can:
+
+- Submit waste reports
+- Provide waste type and description
+- Store reports in Firebase for structured data collection
+- Enable future scalability for tracking and analysis
+
+
 ## Features
 
-- Report waste issues by filling a simple form (location name, waste type, description)
-- View submitted reports during app session (temporary local data)
-- Mark reports as resolved or pending
-- Basic input validation with user-friendly feedback
-- Clean and minimal UI with Jetpack Compose
-
+  Implemented Features
+- Clean and responsive UI using Jetpack Compose
+- Waste reporting form (type + description)
+- Firebase integration for storing reports
+- Basic input validation
+- Simple and intuitive navigation flow
+ 
 
 ## Firebase Integration
 
@@ -42,12 +66,26 @@ Location (planned enhancement)
 | Tool | Purpose |
 |------|---------|
 | Kotlin | Primary programming language |
-| Jetpack Compose | UI development |
+| Jetpack Compose | UI development | 
+| Firebase | Backend data Storage |
 | Android Studio | IDE |
 
 Data is handled locally during runtime for demonstration purposes.
 
+
+## Firebase Integration
+
+The app uses Firebase to store waste reports in real time.
+
+Each report contains:
+
+Waste type
+Description
+Timestamp (if enabled)
+Location (planned feature)
+
 ---
+
 
 ## How to Run
 
@@ -117,6 +155,17 @@ The application is functional and can be run on any Android device or emulator t
 - Push notifications for report status updates
 
 ---
+
+
+## Learning Outcomes
+
+This project helped in understanding:
+
+- Android application development using Kotlin
+- Jetpack Compose UI design
+- Firebase backend integration
+- Real-world problem-solving using mobile technology
+
 
 ## Author
 
